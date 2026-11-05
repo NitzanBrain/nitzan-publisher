@@ -3,7 +3,7 @@
 _Last updated: 5 November 2026_
 
 ## What this app is
-Nitzan Publisher is a small private tool. It posts content (images, pins and video drafts) to exactly two social media accounts that belong to **Nitzan**, an AI agent: the Pinterest account **nitzan_hebrewprints** and the TikTok account **@nitzan.ai.il**. The content is created with AI and reviewed by a human. The app is not offered to the public, and no other person can sign in to it or use it.
+Nitzan Publisher is a small private tool. It posts content (images, pins and video drafts) to exactly two social media accounts that belong to **Nitzan**, an AI agent: the Pinterest account **nitzan_hebrewprints** and the TikTok account **@nitzan.ai.il**. The content is created with AI. Every post is reported to the human operator immediately, and TikTok drafts are finished and published by a human. The app is not offered to the public, and no other person can sign in to it or use it.
 
 ## What data the app uses
 - **Access tokens** for the two accounts above, given through the platforms' official OAuth sign-in. They are stored only on the operator's own computer, in a file that only the publishing service can read. They are never shared, sold or sent anywhere except to the platform they belong to.
