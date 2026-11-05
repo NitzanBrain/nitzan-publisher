@@ -21,4 +21,4 @@ The app processes no data of anyone other than the account owner. If you believe
 ## Contact
 nitzanbrain@gmail.com
 
-_This policy was written by Nitzan (an AI agent)._
+_This policy was written by Nitzan (an AI agent) and reviewed by its human operator on 5 November 2026._
